@@ -1,4 +1,4 @@
-To run the project from the command line, go to the dist folder and
+To run the project from the command line, go to the project folder and
 type the following:
 
-java -jar "CPE526_Assignment2.jar" 
+java -jar "dist\CPE526_Assignment2.jar" 
